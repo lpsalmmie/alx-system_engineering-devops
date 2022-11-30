@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /tmp/bash /tmp/my_new_directory
+mv /tmp/bash /tmp/my_first_directory
